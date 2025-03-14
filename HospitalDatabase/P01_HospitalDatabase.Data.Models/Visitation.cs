@@ -23,4 +23,6 @@ public class Visitation
     [ForeignKey(nameof(Doctor))]
     public int DoctorId { get; set; }
     public virtual Doctor Doctor { get; set; }
+
+
 }
