@@ -14,12 +14,12 @@ namespace CarDealer.Data
         {
         }
       
-        public DbSet<Car> Cars { get; set; }
-        public DbSet<Customer> Customers { get; set; }
-        public DbSet<Part> Parts { get; set; }
-        public DbSet<PartCar> PartsCars { get; set; }
-        public DbSet<Sale> Sales { get; set; }
-        public DbSet<Supplier> Suppliers { get; set; }
+        public virtual DbSet<Car> Cars { get; set; }= null!;
+        public virtual DbSet<Customer> Customers { get; set; } = null!;
+        public virtual DbSet<Part> Parts { get; set; } = null!;
+        public virtual DbSet<PartCar> PartsCars { get; set; } = null!;
+        public virtual DbSet<Sale> Sales { get; set; } = null!;
+        public virtual DbSet<Supplier> Suppliers { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

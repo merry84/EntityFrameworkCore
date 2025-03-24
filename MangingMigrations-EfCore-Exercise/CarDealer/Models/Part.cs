@@ -14,6 +14,6 @@
 
         public Supplier Supplier { get; set; } = null!;
 
-        public ICollection<PartCar> PartsCars { get; set; } = new List<PartCar>();
+        public virtual ICollection<PartCar> PartsCars { get; set; } = new List<PartCar>();
     }
 }
