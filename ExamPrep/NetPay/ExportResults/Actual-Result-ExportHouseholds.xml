@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Households>
+  <Household>
+    <Name>Alexander Ivanov</Name>
+    <Email>alexander.ivanov@example.com</Email>
+    <Phone>+144/123-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Water Home</ExpenseName>
+        <Amount>50,50</Amount>
+        <PaymentDate>2024-08-20</PaymentDate>
+        <ServiceName>Water</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Electricity Home</ExpenseName>
+        <Amount>120,50</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Anton Kolev</Name>
+    <Email>anton.kolev@example.com</Email>
+    <Phone>+144/123-126786</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Water Summer House</ExpenseName>
+        <Amount>10,50</Amount>
+        <PaymentDate>2024-07-20</PaymentDate>
+        <ServiceName>Water</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Bozhidar Rusev</Name>
+    <Email>bozhidar.rusev@example.com</Email>
+    <Phone>+555/123-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Security Home</ExpenseName>
+        <Amount>50,00</Amount>
+        <PaymentDate>2024-08-10</PaymentDate>
+        <ServiceName>Security</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Gas Home</ExpenseName>
+        <Amount>350,20</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Gas</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Dimitar Stoyanov</Name>
+    <Email>dimitar.stoyanov@example.com</Email>
+    <Phone>+144/111-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Electricity Summer House</ExpenseName>
+        <Amount>27,50</Amount>
+        <PaymentDate>2024-07-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Emil Todorov</Name>
+    <Email>emil.todorov@example.com</Email>
+    <Phone>+909/122-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Digital TV Home</ExpenseName>
+        <Amount>40,00</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>TV</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Galin Todorov</Name>
+    <Email>galin.todorov@example.com</Email>
+    <Phone>+144/123-123056</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Water Summer House</ExpenseName>
+        <Amount>10,50</Amount>
+        <PaymentDate>2024-07-20</PaymentDate>
+        <ServiceName>Water</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Internet Home</ExpenseName>
+        <Amount>40,00</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Internet</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Galina Stoyanova</Name>
+    <Phone>+144/111-223344</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Electricity Office</ExpenseName>
+        <Amount>150,50</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Gas Office</ExpenseName>
+        <Amount>250,20</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Gas</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Gas Home</ExpenseName>
+        <Amount>350,20</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Gas</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Gavril Stoyanov</Name>
+    <Email>gavril.stoyanov@example.com</Email>
+    <Phone>+144/123-883456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Water Summer House</ExpenseName>
+        <Amount>10,50</Amount>
+        <PaymentDate>2024-07-20</PaymentDate>
+        <ServiceName>Water</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Security Home</ExpenseName>
+        <Amount>50,00</Amount>
+        <PaymentDate>2024-08-10</PaymentDate>
+        <ServiceName>Security</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Georgi Nikolov</Name>
+    <Email>georgi.nikolov@example.com</Email>
+    <Phone>+144/125-123458</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Gas Office</ExpenseName>
+        <Amount>250,20</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Gas</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Gas Home</ExpenseName>
+        <Amount>350,20</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Gas</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Hristo Marinov</Name>
+    <Email>hristo.marinov@example.com</Email>
+    <Phone>+144/333-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Internet Home</ExpenseName>
+        <Amount>40,00</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Internet</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Hristo Petrov</Name>
+    <Email>hristo.petrov@example.com</Email>
+    <Phone>+144/123-003456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Security Home</ExpenseName>
+        <Amount>50,00</Amount>
+        <PaymentDate>2024-08-10</PaymentDate>
+        <ServiceName>Security</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Gas Home</ExpenseName>
+        <Amount>350,20</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Gas</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Ivan Dimitrov</Name>
+    <Email>ivan.dimitrov@example.com</Email>
+    <Phone>+144/123-093456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Electricity Office</ExpenseName>
+        <Amount>150,50</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Telephony</ExpenseName>
+        <Amount>250,00</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Phone</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Gas Office</ExpenseName>
+        <Amount>250,20</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Gas</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Ivan Hristov</Name>
+    <Email>ivan.hristov@example.com</Email>
+    <Phone>+144/222-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Water Home</ExpenseName>
+        <Amount>50,50</Amount>
+        <PaymentDate>2024-08-20</PaymentDate>
+        <ServiceName>Water</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Electricity Home</ExpenseName>
+        <Amount>120,50</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Kaloyan Pavlov</Name>
+    <Email>kaloyan.pavlov@example.com</Email>
+    <Phone>+144/424-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Electricity Summer House</ExpenseName>
+        <Amount>27,50</Amount>
+        <PaymentDate>2024-07-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Electricity Home</ExpenseName>
+        <Amount>120,50</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Kiril Georgiev</Name>
+    <Email>kiril.georgiev@example.com</Email>
+    <Phone>+155/123-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Water Summer House</ExpenseName>
+        <Amount>10,50</Amount>
+        <PaymentDate>2024-07-20</PaymentDate>
+        <ServiceName>Water</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Kostadin Nikolov</Name>
+    <Email>kostadin.nikolov@example.com</Email>
+    <Phone>+144/123-128856</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Gas Summer House</ExpenseName>
+        <Amount>50,50</Amount>
+        <PaymentDate>2024-06-25</PaymentDate>
+        <ServiceName>Gas</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Water Office</ExpenseName>
+        <Amount>10,80</Amount>
+        <PaymentDate>2024-08-20</PaymentDate>
+        <ServiceName>Water</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Lazar Kirov</Name>
+    <Email>lazar.kirov@example.com</Email>
+    <Phone>+144/993-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Electricity Summer House</ExpenseName>
+        <Amount>27,50</Amount>
+        <PaymentDate>2024-07-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Lyuben Hristov</Name>
+    <Email>lyuben.hristov@example.com</Email>
+    <Phone>+144/484-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Internet Home</ExpenseName>
+        <Amount>40,00</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Internet</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Lyubomir Angelov</Name>
+    <Email>lyubomir.angelov@example.com</Email>
+    <Phone>+144/323-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Water Summer House</ExpenseName>
+        <Amount>10,50</Amount>
+        <PaymentDate>2024-07-20</PaymentDate>
+        <ServiceName>Water</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Security Home</ExpenseName>
+        <Amount>50,00</Amount>
+        <PaymentDate>2024-08-10</PaymentDate>
+        <ServiceName>Security</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Martin Popov</Name>
+    <Email>martin.popov@example.com</Email>
+    <Phone>+144/331-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Gas Home</ExpenseName>
+        <Amount>350,20</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Gas</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Nikolay Petkov</Name>
+    <Email>nikolay.petkov@example.com</Email>
+    <Phone>+144/123-127776</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Security Summer House</ExpenseName>
+        <Amount>30,00</Amount>
+        <PaymentDate>2024-07-25</PaymentDate>
+        <ServiceName>Security</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Nikolay Zlatev</Name>
+    <Email>nikolay.zlatev@example.com</Email>
+    <Phone>+144/441-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Electricity Office</ExpenseName>
+        <Amount>150,50</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Gas Office</ExpenseName>
+        <Amount>250,20</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Gas</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Pavel Iliev</Name>
+    <Email>pavel.iliev@example.com</Email>
+    <Phone>+111/123-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Electricity Summer House</ExpenseName>
+        <Amount>27,50</Amount>
+        <PaymentDate>2024-07-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Petar Kolev</Name>
+    <Email>petar.kolev@example.com</Email>
+    <Phone>+144/556-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Electricity Home</ExpenseName>
+        <Amount>120,50</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Simeon Stefanov</Name>
+    <Email>simeon.stefanov@example.com</Email>
+    <Phone>+323/123-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Water Home</ExpenseName>
+        <Amount>50,50</Amount>
+        <PaymentDate>2024-08-20</PaymentDate>
+        <ServiceName>Water</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Internet Home</ExpenseName>
+        <Amount>40,00</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Internet</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Stanislav Tsvetkov</Name>
+    <Email>stanislav.tsvetkov@example.com</Email>
+    <Phone>+144/123-909456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Digital TV Home</ExpenseName>
+        <Amount>20,50</Amount>
+        <PaymentDate>2024-07-20</PaymentDate>
+        <ServiceName>TV</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Teodor Yordanov</Name>
+    <Email>teodor.yordanov@example.com</Email>
+    <Phone>+144/083-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Electricity Summer House</ExpenseName>
+        <Amount>27,50</Amount>
+        <PaymentDate>2024-07-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Todor Pavlov</Name>
+    <Email>todor.pavlov@example.com</Email>
+    <Phone>+144/123-100456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Security Home</ExpenseName>
+        <Amount>50,00</Amount>
+        <PaymentDate>2024-08-10</PaymentDate>
+        <ServiceName>Security</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Gas Home</ExpenseName>
+        <Amount>350,20</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Gas</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Vasil Dimitrov</Name>
+    <Email>vasil.dimitrov@example.com</Email>
+    <Phone>+144/124-123457</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Water Summer House</ExpenseName>
+        <Amount>10,50</Amount>
+        <PaymentDate>2024-07-20</PaymentDate>
+        <ServiceName>Water</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Security Home</ExpenseName>
+        <Amount>50,00</Amount>
+        <PaymentDate>2024-08-01</PaymentDate>
+        <ServiceName>Security</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Ventsislav Marinov</Name>
+    <Email>ventsislav.marinov@example.com</Email>
+    <Phone>+444/123-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Gas Office</ExpenseName>
+        <Amount>250,20</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Gas</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Viktor Hristov</Name>
+    <Email>viktor.hristov@example.com</Email>
+    <Phone>+144/100-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Electricity Office</ExpenseName>
+        <Amount>150,50</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Gas Office</ExpenseName>
+        <Amount>250,20</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Gas</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Vladimir Ivanov</Name>
+    <Email>vladimir.ivanov@example.com</Email>
+    <Phone>+144/123-133356</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Gas Office</ExpenseName>
+        <Amount>250,20</Amount>
+        <PaymentDate>2024-07-25</PaymentDate>
+        <ServiceName>Gas</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Yasen Angelov</Name>
+    <Email>yasen.angelov@example.com</Email>
+    <Phone>+144/887-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Water Home</ExpenseName>
+        <Amount>50,50</Amount>
+        <PaymentDate>2024-08-20</PaymentDate>
+        <ServiceName>Water</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Electricity Home</ExpenseName>
+        <Amount>120,50</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+      <Expense>
+        <ExpenseName>Internet Home</ExpenseName>
+        <Amount>40,00</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Internet</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Yordan Stefanov</Name>
+    <Email>yordan.stefanov@example.com</Email>
+    <Phone>+104/123-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Electricity Summer House</ExpenseName>
+        <Amount>27,50</Amount>
+        <PaymentDate>2024-07-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Zahari Zlatev</Name>
+    <Email>zahari.zlatev@example.com</Email>
+    <Phone>+144/678-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Internet Home</ExpenseName>
+        <Amount>40,00</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Internet</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+  <Household>
+    <Name>Zdravko Yanev</Name>
+    <Email>zdravko.yanev@example.com</Email>
+    <Phone>+144/103-123456</Phone>
+    <Expenses>
+      <Expense>
+        <ExpenseName>Electricity Home</ExpenseName>
+        <Amount>120,50</Amount>
+        <PaymentDate>2024-08-25</PaymentDate>
+        <ServiceName>Electricity</ServiceName>
+      </Expense>
+    </Expenses>
+  </Household>
+</Households>
